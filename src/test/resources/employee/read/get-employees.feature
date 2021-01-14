@@ -1,9 +1,9 @@
 Feature: get all employees end-point
 
 Background:
-* url apiUrl
+    * url apiUrl
 
-Scenario: get employees list
+Scenario: get all employees list
 
     Given path 'employees'
     When method get

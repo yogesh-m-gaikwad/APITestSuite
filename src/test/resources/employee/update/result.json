@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "message":"Successfully! Record has been updated.",
+  "data":  {
+    "id": 21,
+    "employee_name": "Jenette Caldwell",
+    "employee_salary": 455000,
+    "employee_age": 35,
+    "profile_image": ""
+  }
+}

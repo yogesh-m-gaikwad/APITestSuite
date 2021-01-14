@@ -1,0 +1,10 @@
+{
+  "status": "success",
+  "message":"Successfully! Record has been added.",
+  "data": {
+    "employee_name": "Anon Grep",
+    "employee_salary": "120800",
+    "employee_age": "36",
+    "id": "##notnull"
+  }
+}

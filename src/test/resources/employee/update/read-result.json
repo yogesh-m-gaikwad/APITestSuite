@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "message": "Successfully! Record has been fetched.",
+  "data":  {
+    "id": 21,
+    "employee_name": "Jenette Caldwell",
+    "employee_salary": 345000,
+    "employee_age": 30,
+    "profile_image": ""
+  }
+}

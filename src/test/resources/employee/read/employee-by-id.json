@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "data": {
+    "id": 9,
+    "employee_name": "Colleen Hurst",
+    "employee_salary": 205500,
+    "employee_age": 39,
+    "profile_image": ""
+  },
+  "message": "Successfully! Record has been fetched."
+}
