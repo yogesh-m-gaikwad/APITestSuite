@@ -11,7 +11,7 @@ pipeline {
       stage('Test') {
         steps {
             echo 'Testing...'
-            mvn test -Dtest=org.fynd.CucumberReportsRunner
+            mvn test
         }
       }
     }
